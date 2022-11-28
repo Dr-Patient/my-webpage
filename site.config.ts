@@ -2,15 +2,15 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '999a26f7657446b9a114b4154e51312b',
+  rootNotionPageId: '7dbba234fd304b6090a6fde0ec97c8eb',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'https://www.notion.so/Chang-Liu-999a26f7657446b9a114b4154e51312b',
+  name: 'My Webpage',
+  domain: 'https://www.notion.so/changliu-page-7dbba234fd304b6090a6fde0ec97c8eb',
   author: 'Chang Liu',
 
   // open graph metadata (optional)
