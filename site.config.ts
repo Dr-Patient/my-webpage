@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
   domain: 'https://www.notion.so/Chang-Liu-999a26f7657446b9a114b4154e51312b',
-  author: 'Travis Fischer',
+  author: 'Chang Liu',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
