@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://www.notion.so/Chang-Liu-999a26f7657446b9a114b4154e51312b',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
